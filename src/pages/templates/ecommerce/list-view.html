@@ -1,0 +1,8 @@
+{% include "ecommerce/messages.html" %}
+<h1>Bienvenido, {{user}}</h1>
+
+<ul>
+    {% for product in products %}
+        <li><a href="{% url 'ProductDetail' id=product.id %}">{{ product.title }}</a> - {{ product.price }}</li>
+    {% endfor %}
+</ul>
