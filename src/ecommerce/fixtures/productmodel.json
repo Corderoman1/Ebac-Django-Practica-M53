@@ -1,0 +1,1444 @@
+[
+{
+    "model": "ecommerce.productmodel",
+    "pk": 1,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Laptop UltraBook 14",
+        "price": 18500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 2,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Smartphone Alpha 5G",
+        "price": 12000.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 3,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Auriculares Inalámbricos Pro",
+        "price": 3500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 4,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Smartwatch Serie 8",
+        "price": 7200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 5,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Monitor Gaming 27'' 144Hz",
+        "price": 6800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 6,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Teclado Mecánico RGB",
+        "price": 1500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 7,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Ratón Óptico Ergonómico",
+        "price": 850.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 8,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Tablet Pro 11 Pulgadas",
+        "price": 14000.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 9,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cámara de Acción 4K",
+        "price": 5400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 10,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Altavoz Inteligente con Asistente",
+        "price": 1200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 11,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Disco Duro Externo 2TB",
+        "price": 1800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 12,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Unidad SSD NVMe 1TB",
+        "price": 2200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 13,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cargador Rápido GaN 65W",
+        "price": 650.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 14,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cable USB-C a USB-C 2m",
+        "price": 250.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 15,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Batería Portátil 20000mAh",
+        "price": 950.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 16,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Hub USB-C 7 en 1",
+        "price": 700.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 17,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cámara Web Full HD 1080p",
+        "price": 1100.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 18,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Micrófono USB para Streaming",
+        "price": 2500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 19,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Aro de Luz LED 10''",
+        "price": 450.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 20,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Soporte Ajustable para Laptop",
+        "price": 550.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 21,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Consola de Videojuegos NextGen",
+        "price": 11500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 22,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Mando Inalámbrico para PC",
+        "price": 1300.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 23,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Tarjeta Gráfica RTX 4070",
+        "price": 14500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 24,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Procesador Octa-Core 4.5GHz",
+        "price": 6200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 25,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Memoria RAM 16GB DDR5",
+        "price": 1900.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 26,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Placa Base ATX Z790",
+        "price": 4800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 27,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Fuente de Poder 850W Gold",
+        "price": 2700.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 28,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Gabinete PC Cristal Templado",
+        "price": 1600.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 29,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Refrigeración Líquida 240mm",
+        "price": 2100.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 30,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Ventilador ARGB 120mm",
+        "price": 350.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 31,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Router Wi-Fi 6 Doble Banda",
+        "price": 1850.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 32,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Repetidor de Señal Mesh",
+        "price": 1200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 33,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cámara de Seguridad Exterior",
+        "price": 1400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 34,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Timbre Inteligente con Video",
+        "price": 2600.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 35,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Foco Inteligente Multicolor",
+        "price": 350.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 36,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Enchufe Inteligente Wi-Fi",
+        "price": 250.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 37,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Tira LED RGB 5 Metros",
+        "price": 400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 38,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Termostato Inteligente",
+        "price": 4500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 39,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Aspiradora Robot Autocargable",
+        "price": 5800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 40,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Purificador de Aire HEPA",
+        "price": 2900.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 41,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Lector de Libros Electrónicos",
+        "price": 2600.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 42,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Proyector Portátil Mini",
+        "price": 3200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 43,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Pantalla Smart TV 55'' 4K",
+        "price": 8500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 44,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Barra de Sonido 2.1 Bluetooth",
+        "price": 3400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 45,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Reproductor de Streaming 4K",
+        "price": 1100.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 46,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Antena HD de Interior",
+        "price": 300.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 47,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Lápiz Táctil para Tablet",
+        "price": 1800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 48,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Funda Protectora Rígida",
+        "price": 450.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 49,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Mica de Cristal Templado",
+        "price": 150.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 50,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cargador Inalámbrico MagSafe",
+        "price": 850.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 51,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Drone con Cámara 1080p",
+        "price": 4200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 52,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Estabilizador Gimbal para Celular",
+        "price": 2100.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 53,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Tarjeta MicroSD 128GB",
+        "price": 350.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 54,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Lector de Tarjetas SD USB",
+        "price": 200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 55,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Impresora Multifuncional Wi-Fi",
+        "price": 3800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 56,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cartucho de Tinta Negra",
+        "price": 450.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 57,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Papel Fotográfico Brillante",
+        "price": 250.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 58,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Escáner Portátil de Documentos",
+        "price": 1900.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 59,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Calculadora Científica Gráfica",
+        "price": 2200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 60,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Traductor de Idiomas de Bolsillo",
+        "price": 1500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 61,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Grabadora de Voz Digital",
+        "price": 800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 62,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Walkie Talkie Recargable",
+        "price": 950.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 63,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Radio FM/AM Portátil",
+        "price": 400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 64,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Despertador Digital con Carga",
+        "price": 550.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 65,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Báscula Inteligente Bluetooth",
+        "price": 700.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 66,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Termómetro Digital Infrarrojo",
+        "price": 450.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 67,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.222Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Monitor de Presión Arterial",
+        "price": 850.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 68,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cepillo de Dientes Eléctrico",
+        "price": 1200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 69,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Secadora de Cabello Iónica",
+        "price": 900.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 70,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Plancha de Cabello Cerámica",
+        "price": 750.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 71,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Rasuradora Eléctrica Recargable",
+        "price": 1100.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 72,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Depiladora Láser Portátil",
+        "price": 2500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 73,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Máquina de Afeitar Profesional",
+        "price": 1400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 74,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Espejo de Maquillaje con LED",
+        "price": 600.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 75,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Masajeador Muscular de Percusión",
+        "price": 1800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 76,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cojín Masajeador Shiatsu",
+        "price": 1250.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 77,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Humidificador Ultrasónico de Aire",
+        "price": 800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 78,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Difusor de Aceites Esenciales",
+        "price": 550.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 79,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Lámpara de Escritorio LED",
+        "price": 450.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 80,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Ventilador de Torre Silencioso",
+        "price": 1500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 81,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Calefactor Eléctrico Cerámico",
+        "price": 950.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 82,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Cafetera de Cápsulas",
+        "price": 2200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 83,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Licuadora de Alta Potencia",
+        "price": 1800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 84,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Batidora de Mano Inmersión",
+        "price": 650.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 85,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Freidora de Aire 5L",
+        "price": 2100.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 86,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Microondas Digital 1.1 p3",
+        "price": 2600.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 87,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Horno Tostador Eléctrico",
+        "price": 1200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 88,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Parrilla Eléctrica Interior",
+        "price": 1400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 89,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Olla de Cocción Lenta",
+        "price": 950.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 90,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Máquina para Hacer Palomitas",
+        "price": 600.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 91,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Hervidor de Agua Eléctrico",
+        "price": 450.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 92,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Báscula Digital de Cocina",
+        "price": 300.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 93,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Termómetro de Carne Bluetooth",
+        "price": 850.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 94,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Abrelatas Eléctrico Automático",
+        "price": 400.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 95,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Sacacorchos Eléctrico para Vino",
+        "price": 550.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 96,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Selladora al Vacío de Alimentos",
+        "price": 1100.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 97,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Purificador de Agua UV",
+        "price": 3500.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 98,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Máquina de Hielo Portátil",
+        "price": 2800.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 99,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Vinoteca Termoeléctrica 8 Botellas",
+        "price": 3200.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 100,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-22T23:47:02.223Z",
+        "updated": "2026-06-22T23:47:02.223Z",
+        "published_timestamp": null,
+        "title": "Estación Meteorológica Inalámbrica",
+        "price": 950.0,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 101,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-23T04:05:56.467Z",
+        "updated": "2026-06-23T04:05:20.920Z",
+        "published_timestamp": null,
+        "title": "Testing Slug",
+        "price": 1000.0,
+        "descripcion": null,
+        "slug": "testing-slug"
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 102,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-23T04:06:23.982Z",
+        "updated": "2026-06-23T04:06:23.982Z",
+        "published_timestamp": null,
+        "title": "Testing Slug",
+        "price": 1000.0,
+        "descripcion": null,
+        "slug": "testing-slug-1"
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 103,
+    "fields": {
+        "state": "DR",
+        "timestamp": "2026-06-23T04:07:25.396Z",
+        "updated": "2026-06-23T04:07:25.396Z",
+        "published_timestamp": null,
+        "title": "Testing Slug",
+        "price": 1000.0,
+        "descripcion": null,
+        "slug": "testing-slug-2"
+    }
+}
+]
